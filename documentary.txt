@@ -31,7 +31,7 @@ Project Details:
 
 Localhost information
 
-db: library
-user: mfaman
+db: u318076185_library
+user: u318076185_mfaman
 pass: 0YRi$]Fj:
 	
