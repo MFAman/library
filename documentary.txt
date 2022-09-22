@@ -26,4 +26,12 @@ Project Details:
 	Add Members
 	Delete Members
 	Edit Members
+
+
+
+Localhost information
+
+db: library
+user: mfaman
+pass: 0YRi$]Fj:
 	
