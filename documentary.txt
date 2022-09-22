@@ -1,0 +1,29 @@
+Project Name: Library_Management_System.
+
+Database Name: library
+
+Project Documentation:
+	
+	Table Name:
+		Admin
+		Librarian
+		Members
+		Books
+
+Project Details:
+	Admin
+	Add New Admin
+	Delete Admin
+	Edit Admin
+
+	Librarian
+	Add Librarian
+	Delete Librarian
+	Edit Librarian
+
+	Members
+	Student And Teacher
+	Add Members
+	Delete Members
+	Edit Members
+	
